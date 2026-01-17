@@ -55,8 +55,8 @@ Your performance is evaluated based on consistent progress, quality of work, and
 | 4 | 100% ViBe Course completion | 4 weeks | 10% |
 | 5 | Case Studies - 6 submissions | 4 weeks | 5% |
 | 6 | Case Studies - 12 submissions | 5 weeks | 5% |
-| 7 | Case Studies - 18 submissions | 6 weeks | 7.5% |
-| 8 | Case Studies - 24 submissions | 7 weeks | 10% |
+| 7 | Case Studies - 12 submissions | 6 weeks | 7.5% |
+| 8 | Case Studies - 12 submissions | 7 weeks | 10% |
 | 9 | Hands-on Projects | 8 weeks | Completion: 20%<br>Implementation: 10%<br>Design & Attempt: 5% |
 
 ---
