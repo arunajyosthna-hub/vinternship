@@ -179,6 +179,38 @@ No, once discontinued, you cannot rejoin the current program. You would need to 
 **6.5 How does the Discontinuation Policy differ from the Ejection Policy?**  
 The Discontinuation Policy addresses prolonged inactivity at an administrative level, while the Ejection Policy (see Section 10) is a real-time, algorithm-based mechanism focused on maintaining cohort momentum and learning quality.
 
+**6.6 How do I withdraw from the internship?**
+If you wish to discontinue the internship, please follow the steps below:
+
+**Step 1: Draft a Formal Email**
+
+Write a professional email addressed to:
+
+-> NPTEL Point of Contact (POC)
+-> Your College HOD
+-> DLED
+
+Your email should clearly include:
+
+-> Brief introduction – Your full name and the course/program through which you received the internship.
+-> Reason for discontinuation – State your reason clearly and honestly (academic commitments, personal reasons, health concerns, etc.).
+-> Expression of gratitude – Thank the organizers and mentors for the opportunity and support.
+-> Formal closing – End with your full name and contact details.
+
+**Step 2: Include Your Contact Information**
+
+Make sure to add:
+
+-> Full Name
+-> Roll Number / Registration ID (if applicable)
+-> Course / Department / College Name
+-> Phone Number
+-> Email Address
+
+**Step 3: Send the Email**
+
+Send the email to all concerned parties (POC, HOD, and DLED) and retain a copy for your records.
+
 ---
 
 ## 7. ViBe Platform
@@ -273,7 +305,29 @@ The scoring rules are strict:
 
 This special exam is conducted once every fortnight, so choosing this route may significantly delay your progress compared to continuing normally on ViBe.
 
-Because this path is far more demanding and time-consuming than simply completing the regular videos, quizzes, and activities, most students find that continuing with the standard ViBe workflow is the faster and better option.
+Because this path is far more demanding and time-consuming than simply completing the regular videos, quizzes, and activities, most students find that continuing with the standard ViBe workflow is the faster and better option. 
+
+**7.7 Is the ViBe consent form compulsory? What if I don’t want to grant camera access?**
+Yes — the consent form is compulsory.
+
+We would like to clearly inform you that providing consent is a mandatory requirement for any candidate enrolling in and continuing a course on the ViBe Learning Platform.
+
+The platform is designed with proctoring enabled throughout the learning process, which requires access to your webcam and microphone. This is essential to ensure:
+
+-> Fairness across all participants
+-> Academic integrity
+-> Active and genuine participation
+
+If you choose not to grant camera and microphone access, you will not be able to proceed with the course, as proctoring is an integral part of the learning and evaluation workflow.
+
+**Privacy & Monitoring Clarification** 
+
+As outlined in the consent form:
+
+-> ViBe does not continuously record videos.
+-> Proctoring operates via real-time monitoring mechanisms during learning and assessments.
+-> All data is handled strictly in accordance with the stated consent terms and applicable data-protection guidelines.
+-> In short, consent is not optional — it is a core requirement for participation on the platform.
 
 
 ---
@@ -584,3 +638,6 @@ The dashboard is automated and will eventually update. Please wait until the nex
 
 **12.2 My submission is missing in the dashboard. What should I do?**
 Please ensure that you've submitted the forms required which you can find in the forms and link section in the cohort specific page. It is essential to submit as that is the place of verification for us and the scripts fetch for the dashboard.
+
+**12.3 Dashboard is not loading at the moment. What should I do?**
+The Dashboard is under update and this might cause some glitch in dashboard view. It will be resolved soon once the updates are done.
